@@ -1,0 +1,6 @@
+train: D:\new images\train
+val: D:\new images\val
+
+nc: 3
+
+names: ["bike" , "car" , "truck"]
